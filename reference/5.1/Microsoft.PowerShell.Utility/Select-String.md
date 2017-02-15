@@ -489,7 +489,7 @@ If you use the *Quiet* parameter, the output is a Boolean value indicating wheth
 
 ## NOTES
 * **Select-String** is like the Grep command in UNIX and the FindStr command in Windows.
-* The **sst** alias for the **Select-String** cmdlet was introduced in Windows PowerShell 3.0.
+* The **sls** alias for the **Select-String** cmdlet was introduced in Windows PowerShell 3.0.
 * To use **Select-String**, type the text that you want to find as the value of the *Pattern* parameter.
 
   To specify the text to be searched, do the following:
